@@ -1,2 +1,2 @@
 # Kuro
-just kuro
+It's a very simple python program, which can offer some weather info and articles
